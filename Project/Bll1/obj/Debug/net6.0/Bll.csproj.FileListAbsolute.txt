@@ -1,0 +1,57 @@
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Bll1\bin\Debug\net6.0\Bll.deps.json
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Bll1\bin\Debug\net6.0\Bll.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Bll1\bin\Debug\net6.0\Bll.pdb
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Bll1\obj\Debug\net6.0\Bll.csproj.AssemblyReference.cache
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Bll1\obj\Debug\net6.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Bll1\obj\Debug\net6.0\Bll.AssemblyInfoInputs.cache
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Bll1\obj\Debug\net6.0\Bll.AssemblyInfo.cs
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Bll1\obj\Debug\net6.0\Bll.csproj.CoreCompileInputs.cache
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Bll1\obj\Debug\net6.0\Bll.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Bll1\obj\Debug\net6.0\refint\Bll.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Bll1\obj\Debug\net6.0\Bll.pdb
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Bll1\obj\Debug\net6.0\ref\Bll.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Bll1\bin\Debug\net6.0\Dal.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Bll1\bin\Debug\net6.0\Dto.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Bll1\bin\Debug\net6.0\Entities.dll
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Bll1\bin\Debug\net6.0\Dal.pdb
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Bll1\bin\Debug\net6.0\Dto.pdb
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Bll1\bin\Debug\net6.0\Entities.pdb
+D:\לימודים\הדסים-משימת בית\projectCorona4\Project\Bll1\obj\Debug\net6.0\Bll.csproj.CopyComplete
+C:\Users\user1\Desktop\Project\Bll1\bin\Debug\net6.0\Bll.deps.json
+C:\Users\user1\Desktop\Project\Bll1\bin\Debug\net6.0\Bll.dll
+C:\Users\user1\Desktop\Project\Bll1\bin\Debug\net6.0\Bll.pdb
+C:\Users\user1\Desktop\Project\Bll1\bin\Debug\net6.0\Dal.dll
+C:\Users\user1\Desktop\Project\Bll1\bin\Debug\net6.0\Dto.dll
+C:\Users\user1\Desktop\Project\Bll1\bin\Debug\net6.0\Entities.dll
+C:\Users\user1\Desktop\Project\Bll1\bin\Debug\net6.0\Dal.pdb
+C:\Users\user1\Desktop\Project\Bll1\bin\Debug\net6.0\Entities.pdb
+C:\Users\user1\Desktop\Project\Bll1\bin\Debug\net6.0\Dto.pdb
+C:\Users\user1\Desktop\Project\Bll1\obj\Debug\net6.0\Bll.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\Project\Bll1\obj\Debug\net6.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\Project\Bll1\obj\Debug\net6.0\Bll.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\Project\Bll1\obj\Debug\net6.0\Bll.AssemblyInfo.cs
+C:\Users\user1\Desktop\Project\Bll1\obj\Debug\net6.0\Bll.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\Project\Bll1\obj\Debug\net6.0\Bll.csproj.CopyComplete
+C:\Users\user1\Desktop\Project\Bll1\obj\Debug\net6.0\Bll.dll
+C:\Users\user1\Desktop\Project\Bll1\obj\Debug\net6.0\refint\Bll.dll
+C:\Users\user1\Desktop\Project\Bll1\obj\Debug\net6.0\Bll.pdb
+C:\Users\user1\Desktop\Project\Bll1\obj\Debug\net6.0\ref\Bll.dll
+D:\לימודים\הדסים-מטלת בית\Project\Bll1\bin\Debug\net6.0\Bll.deps.json
+D:\לימודים\הדסים-מטלת בית\Project\Bll1\bin\Debug\net6.0\Bll.dll
+D:\לימודים\הדסים-מטלת בית\Project\Bll1\bin\Debug\net6.0\Bll.pdb
+D:\לימודים\הדסים-מטלת בית\Project\Bll1\bin\Debug\net6.0\Dal.dll
+D:\לימודים\הדסים-מטלת בית\Project\Bll1\bin\Debug\net6.0\Dto.dll
+D:\לימודים\הדסים-מטלת בית\Project\Bll1\bin\Debug\net6.0\Entities.dll
+D:\לימודים\הדסים-מטלת בית\Project\Bll1\bin\Debug\net6.0\Dal.pdb
+D:\לימודים\הדסים-מטלת בית\Project\Bll1\bin\Debug\net6.0\Dto.pdb
+D:\לימודים\הדסים-מטלת בית\Project\Bll1\bin\Debug\net6.0\Entities.pdb
+D:\לימודים\הדסים-מטלת בית\Project\Bll1\obj\Debug\net6.0\Bll.csproj.AssemblyReference.cache
+D:\לימודים\הדסים-מטלת בית\Project\Bll1\obj\Debug\net6.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\הדסים-מטלת בית\Project\Bll1\obj\Debug\net6.0\Bll.AssemblyInfoInputs.cache
+D:\לימודים\הדסים-מטלת בית\Project\Bll1\obj\Debug\net6.0\Bll.AssemblyInfo.cs
+D:\לימודים\הדסים-מטלת בית\Project\Bll1\obj\Debug\net6.0\Bll.csproj.CoreCompileInputs.cache
+D:\לימודים\הדסים-מטלת בית\Project\Bll1\obj\Debug\net6.0\Bll.csproj.CopyComplete
+D:\לימודים\הדסים-מטלת בית\Project\Bll1\obj\Debug\net6.0\Bll.dll
+D:\לימודים\הדסים-מטלת בית\Project\Bll1\obj\Debug\net6.0\refint\Bll.dll
+D:\לימודים\הדסים-מטלת בית\Project\Bll1\obj\Debug\net6.0\Bll.pdb
+D:\לימודים\הדסים-מטלת בית\Project\Bll1\obj\Debug\net6.0\ref\Bll.dll
